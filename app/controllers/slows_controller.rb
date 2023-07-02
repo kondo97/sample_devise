@@ -1,6 +1,9 @@
 class SlowsController < ApplicationController
-  before_action :authenticate_user!
   def index
+  end
+
+  def api
     sleep 10
+    render json: { message: "response slow request"}
   end
 end
