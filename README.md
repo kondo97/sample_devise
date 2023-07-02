@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repository is sample app for race condition in Rails.
 
-Things you may want to cover:
+I have written an article titled "Rails / セッションのレースコンディションの課題" on the following website. If you don't mind, please take a look at the article.
 
-* Ruby version
+https://github.com/kondo97/sample_devise/assets/85671197/d7c2e128-4fa3-4625-a18e-059f12112a1b
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
